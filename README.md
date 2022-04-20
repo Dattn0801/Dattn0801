@@ -1,4 +1,4 @@
-### Hi I'm Nguyen Thanh Dat 👋
+### Hi I'm Nguyen Thanh Dat 	:frog:
 
 #### MyTech Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
