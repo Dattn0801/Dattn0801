@@ -1,4 +1,4 @@
-### Hi I'm Nguyen Thanh Dat 	:frog:
+### Hi there, I'm Nguyen Thanh Dat 	:frog:
 
 #### MyTech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
