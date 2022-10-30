@@ -1,5 +1,5 @@
 ### Hi there, I'm Nguyen Thanh Dat 	:frog:
-I'm a student at HUFLIT
+
 #### MyTech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
