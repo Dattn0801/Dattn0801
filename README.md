@@ -1,4 +1,4 @@
-### Hi there, I'm Nguyen Thanh Dat 	:frog:
+Dattn080### Hi there, I'm Nguyen Thanh Dat 	:frog:
 
 #### MyTech Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -34,6 +34,6 @@
 
 #### Github Status
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattn0801&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=dattn0801&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dattn0801&layout=compact&theme=tokyonight&langs_count=6" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dattn0801&show_icons=true&theme=tokyonight" height="165">
 </p>
