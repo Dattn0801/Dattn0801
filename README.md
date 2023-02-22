@@ -36,5 +36,6 @@ Dattn080### Hi there, I'm Nguyen Thanh Dat 	:frog:
   <a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dattn0801&layout=compact&theme=tokyonight&langs_count=6" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=Dattn0801&show_icons=true&theme=tokyonight" height="165">
-  <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dattn0801&&show_icons=true&theme=dark>
+  <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dattn0801&&show_icons=true&theme=dark height="165">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dattn0801&&show_icons=true&theme=dark height="165">
 </a>
